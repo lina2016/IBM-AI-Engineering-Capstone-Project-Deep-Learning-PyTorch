@@ -1,6 +1,5 @@
 # IBM AI Engineering Professional Certificate:
 ## AI Capstone Project Deep Learning PyTorch
-AI Capstone Project with Deep Learning is a final assignment for the online course on IBM AI Engineering Professional Certificate. 
 Module 1: In this module, you will get introduced to the problem that we will try to solve throughout the course. You will also learn how to load the image dataset, manipulate images, and visualize them.
 <!--Learning Objectives
  - Identify the problem and get acquainted with the data that will be used to build an image classifier.
